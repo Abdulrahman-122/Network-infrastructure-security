@@ -1,0 +1,28 @@
+2025-12-25 15:38:24.484839 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:39.978552 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:41.410347 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:42.155274 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:43.092387 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:44.007546 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:44.778661 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:45.462503 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:38:46.069383 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:20.406314 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:21.390618 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:22.020552 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:22.616140 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:23.214324 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:23.779485 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:24.310705 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:24.796952 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:39:25.239011 | 127.0.0.1|Received data from client:Hello from client 
+2025-12-25 15:42:00.493476 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:42:03.498521 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:42:04.357833 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:42:05.063548 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:50:56.508369 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:50:58.533588 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:50:59.201884 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:50:59.844499 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:51:00.468245 | 127.0.0.1|Received data from client:/ff/nn/ee 
+2025-12-25 15:51:01.085655 | 127.0.0.1|Received data from client:/ff/nn/ee 
